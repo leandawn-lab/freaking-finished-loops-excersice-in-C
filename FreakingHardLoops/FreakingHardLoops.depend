@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621520757 source:c:\users\lyndo\onedrive\desktop\programming projects\c++ programming\programming exercises to improve skill\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
